@@ -1,4 +1,7 @@
 ## Hi there 👋
+*I am Bhavya Dutta!*
+I like business, engineering, and math! I like to cook, watch sitcoms, and spend time with family. 
+
 
 <!--
 **BhavyaDutta07/BhavyaDutta07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
